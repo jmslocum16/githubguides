@@ -7,4 +7,4 @@ Some guides for doing certain things with GitHub and repl.it.
 * [Import GitHub project into repl.it](repl-import-github.md)
 
 4. Step 4 in test plan
-5. Adding new step 5
+5. Adding new step 5 in test plan
